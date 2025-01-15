@@ -1,0 +1,12 @@
+{
+    "books": [
+        {
+            "id": 1,
+            "title": "El Progreso del Peregrino",
+            "author": "John Bunyan",
+            "src": "/libros-html/elprogresodelperegrino.html",
+            "cover": "/portadas-img/EPDP-img.webp",
+            "description": "Viaje de Cristiano a la Ciudad Celestial bajo el símil de un sueño"
+        }
+    ]
+}

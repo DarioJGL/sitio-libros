@@ -1,0 +1,109 @@
+{
+    "books": [
+        {
+            "id": 1,
+            "title": "1984",
+            "author": "George Orwell",
+            "cover": "/books/1984.jpg",
+            "description": "Una distopía que explora temas de vigilancia gubernamental y control social."
+        },
+        {
+            "id": 2,
+            "title": "Cien años de soledad",
+            "author": "Gabriel García Márquez",
+            "cover": "/books/cien-anos.jpg",
+            "description": "La saga de la familia Buendía en el mítico pueblo de Macondo."
+        },
+        {
+            "id": 3,
+            "title": "El señor de los anillos",
+            "author": "J.R.R. Tolkien",
+            "cover": "/books/lotr.jpg",
+            "description": "Una épica aventura en la Tierra Media."
+        },
+        {
+            "id": 4,
+            "title": "Don Quijote de la Mancha",
+            "author": "Miguel de Cervantes",
+            "cover": "/books/quijote.jpg",
+            "description": "Las aventuras del ingenioso hidalgo Don Quijote."
+        },
+        {
+            "id": 5,
+            "title": "Rayuela",
+            "author": "Julio Cortázar",
+            "cover": "/books/rayuela.jpg",
+            "description": "Una novela experimental que puede leerse en diferentes órdenes."
+        },
+        {
+            "id": 6,
+            "title": "El Aleph",
+            "author": "Jorge Luis Borges",
+            "cover": "/books/aleph.jpg",
+            "description": "Colección de cuentos que exploran temas metafísicos."
+        },
+        {
+            "id": 7,
+            "title": "Pedro Páramo",
+            "author": "Juan Rulfo",
+            "cover": "/books/paramo.jpg",
+            "description": "Un viaje místico a través del pueblo fantasma de Comala."
+        },
+        {
+            "id": 8,
+            "title": "La Casa de los Espíritus",
+            "author": "Isabel Allende",
+            "cover": "/books/espiritus.jpg",
+            "description": "La saga de la familia Trueba a través de generaciones."
+        },
+        {
+            "id": 9,
+            "title": "Fahrenheit 451",
+            "author": "Ray Bradbury",
+            "cover": "/books/fahrenheit.jpg",
+            "description": "Un mundo donde los libros están prohibidos."
+        },
+        {
+            "id": 10,
+            "title": "El Laberinto de la Soledad",
+            "author": "Octavio Paz",
+            "cover": "/books/laberinto.jpg",
+            "description": "Ensayo sobre la identidad mexicana."
+        },
+        {
+            "id": 11,
+            "title": "Ficciones",
+            "author": "Jorge Luis Borges",
+            "cover": "/books/ficciones.jpg",
+            "description": "Colección de cuentos que desafían la realidad."
+        },
+        {
+            "id": 12,
+            "title": "La Ciudad y los Perros",
+            "author": "Mario Vargas Llosa",
+            "cover": "/books/ciudad.jpg",
+            "description": "La vida en un colegio militar en Lima."
+        },
+        {
+            "id": 13,
+            "title": "Aura",
+            "author": "Carlos Fuentes",
+            "cover": "/books/aura.jpg",
+            "description": "Una misteriosa historia sobre el tiempo y la identidad."
+        },
+        {
+            "id": 14,
+            "title": "El Túnel",
+            "author": "Ernesto Sábato",
+            "cover": "/books/tunel.jpg",
+            "description": "La obsesión de un artista por una mujer."
+        },
+        {
+            "id": 15,
+            "title": "La Tregua",
+            "author": "Mario Benedetti",
+            "cover": "/books/tregua.jpg",
+            "description": "El diario de un oficinista próximo a jubilarse."
+        }
+    ]
+}
