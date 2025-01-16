@@ -16,7 +16,7 @@
             "src_html": "/libros-html/historiaiglesiacristiana.htm",
             "src_pdf": "/libros-pdf/historiaiglesiacristiana.pdf",
             "cover": "/portadas-img/HDLIC-img.png",
-            "description": "Historia de la Iglesia Cristiana desde la ascensión de Jesús hasta el siglo XX"
+            "description": "Historia de la Iglesia Cristiana, desde la ascensión de Jesús hasta nuestros días"
         },
         {
             "id": 3,
@@ -34,13 +34,13 @@
             "src_html": "/libros-html/panoramadelantiguotestamento.html",
             "src_pdf": "/libros-pdf/panoramadelantiguotestamento.pdf",
             "cover": "/portadas-img/PDAT-img.jpg",
-            "description": "Panorama del Antiguo Testamento desde la creación hasta el cautiverio babilónico"
+            "description": "Panorama del Antiguo Testamento, historia y profecía"
         },
         {
             "id": 5,
             "title": "Introducción al Antiguo Testamento",
             "author": "Thomas Romer",
-            "src_html": "/libros-html/romerthomasintroduccionalantiguotestamento.html",
+            "src_html": "/libros-pdf/romerthomasintroduccionalantiguotestamento.pdf",
             "src_pdf": "/libros-pdf/romerthomasintroduccionalantiguotestamento.pdf",
             "cover": "/portadas-img/IAT-img.jpg",
             "description": "Introducción al Antiguo Testamento"
@@ -49,7 +49,7 @@
             "id": 6,
             "title": "Hermeneutica",
             "author": "Henry A. Virkler",
-            "src_html": "/libros-html/hermeneutica.html",
+            "src_html": "/libros-html/Hermeneutica.html",
             "src_pdf": "/libros-pdf/Hermeneutica.pdf",
             "cover": "/portadas-img/hermeneutica-img.png",
             "description": "Hermeneutica: Principios y procesos de interpretación bíblica"
@@ -58,8 +58,8 @@
             "id": 7,
             "title": "Introduccion a la Biblia",
             "author": "Donald E. Demaray",
-            "src_html": "/libros-html/introduccionalabiblia.html",
-            "src_pdf": "/libros-pdf/introduccionaLaBiblia.pdf",
+            "src_html": "/libros-html/IntroduccionaLaBiblia.html",
+            "src_pdf": "/libros-pdf/IntroduccionaLaBiblia.pdf",
             "cover": "/portadas-img/IB-img.png",
             "description": "Introducción a la Biblia, su origen, historia y contenido"
         },
@@ -67,10 +67,37 @@
             "id": 8,
             "title": "Manual de Homilética",
             "author": "Kittim Silva",
-            "src_html": "/libros-html/ManuealHomiletica.html",
-            "src_pdf": "/libros-pdf/ManuealHomiletica.pdf",
+            "src_html": "/libros-html/ManualHomiletica.html",
+            "src_pdf": "/libros-pdf/ManualHomiletica.pdf",
             "cover": "/portadas-img/MH-img.png",
             "description": "Manual de Homilética, cómo preparar y predicar un sermón"
+        },
+        {
+            "id": 9,
+            "title": "Introducción al Nuevo Testamento",
+            "author": "Everett F. Harrison",
+            "src_html": "/libros-html/IntroduccionAlNuevoTestamento.html",
+            "src_pdf": "/libros-pdf/IntroduccionAlNuevoTestamento.pdf",
+            "cover": "/portadas-img/INT-img.jpg",
+            "description": "Introducción al Nuevo Testamento, su origen, historia y contenido"
+        },
+        {
+            "id": 10,
+            "title": "Estudio Práctico del Nuevo Testamento",
+            "author": "David C Cook",
+            "src_html": "/libros-html/EstudioPracticoDelNuevoTestamento.html",
+            "src_pdf": "/libros-pdf/EstudioPracticoDelNuevoTestamento.pdf",
+            "cover": "/portadas-img/EPNT-img.png",
+            "description": "Estudio Práctico del Nuevo Testamento, guía de estudio"
+        },
+        {
+            "id": 11,
+            "title": "Para leer EL NUEVO TESTAMENTO",
+            "author": "Etienne Charpentier",
+            "src_html": "/libros-html/ParaLeerElNuevoTestamento.html",
+            "src_pdf": "/libros-pdf/ParaLeerElNuevoTestamento.pdf",
+            "cover": "/portadas-img/PLNT-img.png",
+            "description": "Para leer EL NUEVO TESTAMENTO, guía de lectura"
         }
     ]
 }

@@ -74,6 +74,10 @@
   border-color: var(--foreground);
 }
 
+@media (width < 450px) {
+  .grid {}
+}
+
 @media (prefers-color-scheme: dark) {
   .logo {
     filter: invert();
