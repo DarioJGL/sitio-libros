@@ -44,9 +44,10 @@ export default function Home() {
               key={book.id}
               title={book.title}
               author={book.author}
-              cover="/portadas-libro.jpg"
+              cover={book.cover}
               description={book.description}
-              src={book.src}
+              src_html={book.src_html}
+              src_pdf={book.src_pdf}
             />
           ))}
         </div>

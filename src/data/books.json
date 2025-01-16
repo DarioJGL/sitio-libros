@@ -4,9 +4,73 @@
             "id": 1,
             "title": "El Progreso del Peregrino",
             "author": "John Bunyan",
-            "src": "/libros-html/elprogresodelperegrino.html",
+            "src_html": "/libros-html/elprogresodelperegrino.html",
+            "src_pdf": "/libros-pdf/elprogresodelperegrino.pdf",
             "cover": "/portadas-img/EPDP-img.webp",
             "description": "Viaje de Cristiano a la Ciudad Celestial bajo el símil de un sueño"
+        },
+        {
+            "id": 2,
+            "title": "Historia de la Iglesia Cristiana",
+            "author": "Jesse Lymann Hurlbut",
+            "src_html": "/libros-html/historiaiglesiacristiana.htm",
+            "src_pdf": "/libros-pdf/historiaiglesiacristiana.pdf",
+            "cover": "/portadas-img/HDLIC-img.png",
+            "description": "Historia de la Iglesia Cristiana desde la ascensión de Jesús hasta el siglo XX"
+        },
+        {
+            "id": 3,
+            "title": "Biblia Textual Regresando a las Fuentes",
+            "author": "Sociedad Biblica Iberamericana",
+            "src_html": "/libros-html/LA-BIBLIA-TEXTUAL-REGRESANDO-A-LAS-FUENTES.html",
+            "src_pdf": "/libros-pdf/LA-BIBLIA-TEXTUAL-REGRESANDO-A-LAS-FUENTES.pdf",
+            "cover": "/portadas-img/BTX-img.jpg",
+            "description": "Traduccion contextual de las palabras hebreas, arameas y griegas"
+        },
+        {
+            "id": 4,
+            "title": "Panorama del Antiguo Testamento",
+            "author": "Paul Benware",
+            "src_html": "/libros-html/panoramadelantiguotestamento.html",
+            "src_pdf": "/libros-pdf/panoramadelantiguotestamento.pdf",
+            "cover": "/portadas-img/PDAT-img.jpg",
+            "description": "Panorama del Antiguo Testamento desde la creación hasta el cautiverio babilónico"
+        },
+        {
+            "id": 5,
+            "title": "Introducción al Antiguo Testamento",
+            "author": "Thomas Romer",
+            "src_html": "/libros-html/romerthomasintroduccionalantiguotestamento.html",
+            "src_pdf": "/libros-pdf/romerthomasintroduccionalantiguotestamento.pdf",
+            "cover": "/portadas-img/IAT-img.jpg",
+            "description": "Introducción al Antiguo Testamento"
+        },
+        {
+            "id": 6,
+            "title": "Hermeneutica",
+            "author": "Henry A. Virkler",
+            "src_html": "/libros-html/hermeneutica.html",
+            "src_pdf": "/libros-pdf/Hermeneutica.pdf",
+            "cover": "/portadas-img/hermeneutica-img.png",
+            "description": "Hermeneutica: Principios y procesos de interpretación bíblica"
+        },
+        {
+            "id": 7,
+            "title": "Introduccion a la Biblia",
+            "author": "Donald E. Demaray",
+            "src_html": "/libros-html/introduccionalabiblia.html",
+            "src_pdf": "/libros-pdf/introduccionaLaBiblia.pdf",
+            "cover": "/portadas-img/IB-img.png",
+            "description": "Introducción a la Biblia, su origen, historia y contenido"
+        },
+        {
+            "id": 8,
+            "title": "Manual de Homilética",
+            "author": "Kittim Silva",
+            "src_html": "/libros-html/ManuealHomiletica.html",
+            "src_pdf": "/libros-pdf/ManuealHomiletica.pdf",
+            "cover": "/portadas-img/MH-img.png",
+            "description": "Manual de Homilética, cómo preparar y predicar un sermón"
         }
     ]
 }

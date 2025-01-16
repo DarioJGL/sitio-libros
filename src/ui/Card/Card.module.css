@@ -50,7 +50,24 @@
     overflow: hidden;
 }
 
-@media (width > 768px) {
-    .card {}
+.links {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    gap: 1rem;
+    padding-bottom: 1rem;
 
 }
+
+.link {
+    color: var(--foreground);
+    font-size: 1rem;
+    text-decoration: none;
+    transition: color 0.2s ease;
+}
+
+.link:hover {
+    color: gray;
+}
+
+@media (width > 768px) {}
